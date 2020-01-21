@@ -1,6 +1,6 @@
 public class vivek
 {
 
-....Hellow man
+....Hellow man .... Either 
 
 }
